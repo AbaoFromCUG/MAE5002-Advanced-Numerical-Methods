@@ -1,0 +1,13 @@
+{
+    "lspconfig": {
+        "tinymist": {
+            "tinymist.exportPdf": "onType"
+        }
+    },
+    "neopyter": {
+        "remote_address": "127.0.0.1:9011",
+        "file_pattern": [
+            "*.py"
+        ]
+    }
+}
