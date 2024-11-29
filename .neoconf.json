@@ -1,7 +1,7 @@
 {
     "lspconfig": {
         "tinymist": {
-            "tinymist.exportPdf": "onType"
+            "tinymist.formatterMode": "typstyle"
         }
     },
     "neopyter": {
